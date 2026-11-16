@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" role="img" aria-label="Visit nidalyehia.com">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c6cf5"/><stop offset="1" stop-color="#e86fb0"/></linearGradient></defs>
-<rect width="320" height="64" rx="32" fill="url(#g)"/>
-<text font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,'Apple Color Emoji','Segoe UI Emoji',sans-serif" font-weight="800" font-size="22" fill="#fff" text-anchor="middle" x="160" y="41">Visit nidalyehia.com →</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" role="img" aria-label="Click here (not a virus): nidalyehia.com">
+<rect width="320" height="64" fill="#000"/>
+<rect x="3" y="3" width="314" height="58" fill="#c0c0c0"/>
+<path d="M3 3H317M3 3V61" stroke="#fff" stroke-width="3" fill="none"/>
+<path d="M3 61H317M317 3V61" stroke="#808080" stroke-width="3" fill="none"/>
+<rect x="9" y="9" width="302" height="46" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="1 2"/>
+<g font-family="Tahoma,'MS Sans Serif',Arial,sans-serif" text-anchor="middle" fill="#000" font-weight="700">
+<text x="160" y="31" font-size="19">CLICK HERE</text>
+<text x="160" y="47" font-size="12" font-weight="400">(not a virus) nidalyehia.com</text></g>
 </svg>
