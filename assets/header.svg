@@ -9,12 +9,6 @@
 </defs>
 <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
 <g fill="#fff" opacity=".13"><circle cx="90" cy="250" r="70"/><circle cx="1090" cy="40" r="90"/><circle cx="640" cy="290" r="50"/></g>
-<g font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,'Apple Color Emoji','Segoe UI Emoji',sans-serif" font-weight="800">
-<text x="64" y="156" font-size="82" fill="#000" opacity=".22" transform="translate(3 4)">Hola, soy Nidal 👋</text>
-<text x="64" y="156" font-size="82" fill="#fff">Hola, soy Nidal 👋</text>
-<text x="66" y="212" font-size="30" font-weight="600" fill="#000" opacity=".2" transform="translate(2 3)">I build small apps that do one thing well</text>
-<text x="66" y="212" font-size="30" font-weight="600" fill="#fff">I build small apps that do one thing well</text>
-</g>
 <g><animateTransform attributeName="transform" type="translate" values="62 0;1138 0;62 0" dur="7s" begin="-2.8s" repeatCount="indefinite"/>
 <g><animateTransform attributeName="transform" type="translate" values="0 62;0 238;0 62" dur="4.3s" begin="-1s" repeatCount="indefinite"/>
 <g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="6s" repeatCount="indefinite"/>
@@ -23,4 +17,10 @@
 <circle r="46" fill="none" stroke="#8d95a3" stroke-width="1.5" stroke-dasharray="3 5"/>
 <text font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,'Apple Color Emoji','Segoe UI Emoji',sans-serif" font-weight="800" font-size="38" fill="#3b4252" text-anchor="middle" y="13">NY</text>
 </g></g></g>
+<g font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,'Apple Color Emoji','Segoe UI Emoji',sans-serif" font-weight="800">
+<text x="64" y="156" font-size="82" fill="#000" opacity=".22" transform="translate(3 4)">Hola, soy Nidal 👋</text>
+<text x="64" y="156" font-size="82" fill="#fff">Hola, soy Nidal 👋</text>
+<text x="66" y="212" font-size="30" font-weight="600" fill="#000" opacity=".2" transform="translate(2 3)">I build small apps that do one thing well</text>
+<text x="66" y="212" font-size="30" font-weight="600" fill="#fff">I build small apps that do one thing well</text>
+</g>
 </svg>
