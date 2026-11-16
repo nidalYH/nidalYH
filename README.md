@@ -31,6 +31,24 @@
 <tr><td width="50%" align="center" valign="top"><a href="https://github.com/nidalYH/Smart-Money-Social-Sentiment"><img src="assets/card-smartmoney-m.png" width="380" alt="Smart-Money-Social-Sentiment"></a><br><b><a href="https://github.com/nidalYH/Smart-Money-Social-Sentiment">Smart-Money-Social-Sentiment</a></b><br>Big-wallet crypto moves vs. social media mood. Las ballenas se mueven, el timeline opina.<br><br></td><td width="50%"></td></tr>
 </table>
 
+## Experience <sub>(the kind nobody pays you for)</sub>
+
+<div align="left">
+
+**Financial Markets — self-taught, self-funded, self-humbled** · *2019 – present*<br>
+<sub>Independent. No bank, no fund, no boss. Just me, a lot of charts and a few lessons that cost money.</sub>
+
+- **Crypto markets** — cycles, narratives, early plays and altcoins. Bought the top so you don't have to.
+- **Stock markets** — fundamental analysis and company valuation. Yes, I read the 10-K. No, it didn't help.
+- **Forex & macro** — currencies, macro indicators and how markets move each other. Knows what the Fed will do. The Fed doesn't.
+- **Technical analysis** — price action, trends, market structure, indicators. Lines on charts, but with conviction.
+- **Risk management** — exposure, position sizing, stop losses. Learned the expensive way, now it's a personality trait.
+- **Market psychology** — sentiment and investor behavior. Mostly studied on myself.
+
+<sub>Not financial advice. Barely advice.</sub>
+
+</div>
+
 ## Lore <sub>(no context provided)</sub>
 
 <table>
