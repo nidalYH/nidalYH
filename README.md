@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-me2.svg" width="100%" alt="Shipping apps instead of sleeping.">
+<img src="assets/header-shadow.svg" width="100%" alt="Shipping apps instead of sleeping.">
 
 
 **Arch-nemesis:** procrastination 😤 (currently winning) &nbsp;·&nbsp; **1 app live, 6 cooking, 0 finished on time** 🍳<br><sub>bugs are just features with commitment issues</sub>
@@ -29,6 +29,19 @@
 <table>
 <tr><td width="50%" align="center" valign="top"><img src="assets/card-botcrypto-m.png" width="380" alt="BotCrypto"><br><b>BotCrypto</b><br>Solana memecoin trading bot. Fake money only. Cero drama.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-pricehunter-m.png" width="380" alt="PRICE-HUNTER"><br><b>PRICE-HUNTER</b><br>Hunts price mistakes and big bargains in online shops. Ojo de águila.<br><br></td></tr>
 <tr><td width="50%" align="center" valign="top"><a href="https://github.com/nidalYH/Smart-Money-Social-Sentiment"><img src="assets/card-smartmoney-m.png" width="380" alt="Smart-Money-Social-Sentiment"></a><br><b><a href="https://github.com/nidalYH/Smart-Money-Social-Sentiment">Smart-Money-Social-Sentiment</a></b><br>Big-wallet crypto moves vs. social media mood. Las ballenas se mueven, el timeline opina.<br><br></td><td width="50%"></td></tr>
+</table>
+
+## Lore <sub>(no context provided)</sub>
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="assets/lore-mcshadow.jpg" width="320" alt="Shadow at McDonald's"><br><sub>me after "one more feature"</sub></td>
+<td width="50%" align="center"><img src="assets/lore-sonicbob.jpg" width="320" alt="Sonic and SpongeBob"><br><sub>frontend & backend, finally talking</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="assets/lore-jackshadow.jpg" width="320" alt="Shadow pouring a drink"><br><sub>App Review: rejected (again)</sub></td>
+<td width="50%" align="center"><img src="assets/lore-pixelsonic.jpg" width="320" alt="Pixel Sonic"><br><sub>staring at the build queue</sub></td>
+</tr>
 </table>
 
 <img src="assets/footer-m.svg" width="100%" alt="">
