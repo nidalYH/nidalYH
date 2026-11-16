@@ -1,6 +1,7 @@
 # Hola 👋, soy Nidal
 
-I build small, polished apps.
+klk
+
 
 🌐 [nidalyehia.com](https://nidalyehia.com)
 
