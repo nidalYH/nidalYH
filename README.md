@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-shadow.svg" width="100%" alt="Shipping apps instead of sleeping.">
+<img src="assets/header-shadow2.svg" width="100%" alt="Shipping apps instead of sleeping.">
 
 
 **Arch-nemesis:** procrastination 😤 (currently winning) &nbsp;·&nbsp; **1 app live, 6 cooking, 0 finished on time** 🍳<br><sub>bugs are just features with commitment issues</sub>
