@@ -7,7 +7,7 @@
 
 <a href="https://nidalyehia.com"><img src="assets/button-m.svg" width="260" alt="Visit nidalyehia.com"></a>
 
-## Apps <sub>(some of them even work, klk)</sub>
+## Apps <sub>(some of them even work)</sub>
 
 <table>
 <tr><td width="50%" align="center" valign="top"><a href="https://apps.apple.com/app/id6833664311"><img src="assets/card-slideflow-m.png" width="380" alt="SlideFlow"></a><br><b><a href="https://apps.apple.com/app/id6833664311">SlideFlow</a></b><br>Instagram carousels that swipe nice. Templates in, editable layers out. Ta' fácil.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-qrbusinesskit-m.png" width="380" alt="QR Business Kit"><br><b>QR Business Kit</b><br>QR codes for links, Wi-Fi, contacts and menus. Works offline. Sin internet, sin drama.<br><br></td></tr>
