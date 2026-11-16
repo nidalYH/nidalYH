@@ -1,79 +1,37 @@
-# Hola 👋, soy Nidal
+<div align="center">
 
-klk
+<img src="assets/header.svg" width="100%" alt="Hola, soy Nidal. I build small apps that do one thing well.">
 
+### klk
 
-🌐 [nidalyehia.com](https://nidalyehia.com)
+**Arch-nemesis: procrastination** 😤 &nbsp;·&nbsp; **1 app live, the rest cooking** 🍳
 
-## Projects
+<a href="https://nidalyehia.com"><img src="assets/button.svg" width="260" alt="Visit nidalyehia.com"></a>
+
+## 📱 Apps
 
 <table>
-<tr>
-<td width="280" valign="top"><img src="assets/slideflow-1.jpg" width="260" alt="SlideFlow"></td>
-<td valign="top"><b><a href="https://apps.apple.com/app/id6833664311">SlideFlow</a></b><br>Design swipeable carousels for Instagram and other social networks. Start from a template, edit every layer, and export when you're done.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/qrbusinesskit-1.jpg" width="260" alt="QR Business Kit"></td>
-<td valign="top"><b>QR Business Kit</b><br>Make QR codes for your business in seconds: links, Wi-Fi, contact cards, menus and more. Works without an internet connection.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/quotemaker-1.jpg" width="260" alt="QuoteMaker"></td>
-<td valign="top"><b>QuoteMaker</b><br>Create professional quotes on your phone and send them as a PDF in under two minutes. Made for freelancers and small businesses.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/warrantybox-1.jpg" width="260" alt="WarrantyBox"></td>
-<td valign="top"><b>WarrantyBox</b><br>Keep your receipts, invoices and warranty dates in one place. Snap a photo of a purchase and find it again whenever you need it.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/cleanscan-1.jpg" width="260" alt="CleanScan"></td>
-<td valign="top"><b>CleanScan</b><br>Scan paper documents, name them automatically and search for the words inside. Files stay small enough to send by email.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/slotguard-1.jpg" width="260" alt="SlotGuard"></td>
-<td valign="top"><b>SlotGuard</b><br>A simple appointment book for people who work for themselves. See your day, your free slots, and send clients a clear message.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/sellerkit-1.jpg" width="260" alt="SellerKit"></td>
-<td valign="top"><b>SellerKit</b><br>Find out how much you really keep from every sale after marketplace fees, shipping and costs. Also keeps a log of what you sold.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/numevia-1.jpg" width="260" alt="Numevia"></td>
-<td valign="top"><b>Numevia</b><br>A personal-finance app that shows how much you can actually spend today, not just your balance. Log an expense by typing, speaking or scanning.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/psyflow-1.jpg" width="260" alt="PsyFlow"></td>
-<td valign="top"><b>PsyFlow</b><br>A mental wellbeing app that combines emotional tracking with a supportive AI chat.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/fadespec.png" width="96" alt="FadeSpec"></td>
-<td valign="top"><b>FadeSpec</b><br>Your haircut, on the record. Log every cut with a photo, price and barber, see when you're due for the next one, and remember exactly how to ask for it.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/cerca-1.jpg" width="260" alt="Cerca"></td>
-<td valign="top"><b>Cerca</b><br>Share your location with a partner or group without being tracked all day. Sharing always ends on its own, and you can stop it with one tap.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/aniflow-1.jpg" width="260" alt="AniFlow"></td>
-<td valign="top"><b>AniFlow</b><br>A diary for the anime you watch: rate shows, build your own lists, discover new ones and see your stats.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/accessmandate-1.jpg" width="260" alt="AccessMandate"></td>
-<td valign="top"><b>AccessMandate</b><br>Country-by-country guide to EU accessibility law: deadlines, penalties and who enforces the rules, with official sources.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/kitwisestudio-1.jpg" width="260" alt="KitwiseStudio"></td>
-<td valign="top"><b>KitwiseStudio</b><br>Ready-made spreadsheet templates and printables, such as an income, expense and tax tracker for freelancers.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/botcrypto-1.jpg" width="260" alt="BotCrypto"></td>
-<td valign="top"><b>BotCrypto</b><br>An experiment: a trading bot for Solana memecoins that only practises with simulated money.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/price-hunter-1.jpg" width="260" alt="PRICE-HUNTER"></td>
-<td valign="top"><b>PRICE-HUNTER</b><br>An experiment: a bot that looks for price mistakes and big bargains on online shops.</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="assets/smartmoney-1.jpg" width="260" alt="Smart-Money-Social-Sentiment"></td>
-<td valign="top"><b><a href="https://github.com/nidalYH/Smart-Money-Social-Sentiment">Smart-Money-Social-Sentiment</a></b><br>An experiment that compares big-wallet crypto activity with social media sentiment.</td>
-</tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://apps.apple.com/app/id6833664311"><img src="assets/card-slideflow.png" width="380" alt="SlideFlow"></a><br><b><a href="https://apps.apple.com/app/id6833664311">SlideFlow</a></b><br>🎠 Carousels for Instagram that swipe nicely. Templates in, editable layers out.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-qrbusinesskit.png" width="380" alt="QR Business Kit"><br><b>QR Business Kit</b><br>🔳 QR codes for links, Wi-Fi, contacts and menus. Works offline.<br><br></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="assets/card-quotemaker.png" width="380" alt="QuoteMaker"><br><b>QuoteMaker</b><br>🧾 A professional quote as a PDF from your phone in under two minutes.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-warrantybox.png" width="380" alt="WarrantyBox"><br><b>WarrantyBox</b><br>📦 Receipts and warranty dates in one box. Snap, forget, find later.<br><br></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="assets/card-cleanscan.png" width="380" alt="CleanScan"><br><b>CleanScan</b><br>📄 Scans paper, names it for you and searches the words inside.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-slotguard.png" width="380" alt="SlotGuard"><br><b>SlotGuard</b><br>📅 An appointment book for the self-employed: your day and your free slots.<br><br></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="assets/card-sellerkit.png" width="380" alt="SellerKit"><br><b>SellerKit</b><br>💸 What you really keep from a sale after fees, shipping and costs.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-numevia.png" width="380" alt="Numevia"><br><b>Numevia</b><br>🪙 How much you can spend today, not just your balance.<br><br></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="assets/card-psyflow.png" width="380" alt="PsyFlow"><br><b>PsyFlow</b><br>🧘 Mood tracking plus a supportive AI chat.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-fadespec.png" width="380" alt="FadeSpec"><br><b>FadeSpec</b><br>💈 Your haircut on the record: photo, price, barber and next-cut date.<br><br></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="assets/card-cerca.png" width="380" alt="Cerca"><br><b>Cerca</b><br>📍 Share your location without being tracked all day. Sharing ends on its own.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-aniflow.png" width="380" alt="AniFlow"><br><b>AniFlow</b><br>🍥 A diary for the anime you watch: ratings, lists and stats.<br><br></td></tr>
 </table>
+
+## 🧪 Side quests
+
+<table>
+<tr><td width="50%" align="center" valign="top"><img src="assets/card-accessmandate.png" width="380" alt="AccessMandate"><br><b>AccessMandate</b><br>⚖️ EU accessibility law, country by country, with official sources.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-kitwisestudio.png" width="380" alt="KitwiseStudio"><br><b>KitwiseStudio</b><br>📊 Spreadsheet templates and printables, like a tracker for freelancers.<br><br></td></tr>
+</table>
+
+## 🤖 Bots & experiments
+
+<table>
+<tr><td width="50%" align="center" valign="top"><img src="assets/card-botcrypto.png" width="380" alt="BotCrypto"><br><b>BotCrypto</b><br>🤖 Solana memecoin trading bot that only plays with fake money.<br><br></td><td width="50%" align="center" valign="top"><img src="assets/card-pricehunter.png" width="380" alt="PRICE-HUNTER"><br><b>PRICE-HUNTER</b><br>🕵️ Hunts price mistakes and big bargains in online shops.<br><br></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/nidalYH/Smart-Money-Social-Sentiment"><img src="assets/card-smartmoney.png" width="380" alt="Smart-Money-Social-Sentiment"></a><br><b><a href="https://github.com/nidalYH/Smart-Money-Social-Sentiment">Smart-Money-Social-Sentiment</a></b><br>🐋 Big-wallet crypto moves vs. social media mood.<br><br></td><td width="50%"></td></tr>
+</table>
+
+<img src="assets/footer.svg" width="100%" alt="">
+
+</div>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="A little disc rolling along">
+<defs><radialGradient id="d" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff"/><stop offset=".5" stop-color="#d5d9e0"/><stop offset="1" stop-color="#8d95a3"/></radialGradient></defs>
+<line x1="20" y1="76" x2="1180" y2="76" stroke="#8d95a3" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12" opacity=".7"/>
+<g><animateTransform attributeName="transform" type="translate" values="-40 0;1240 0" dur="9s" repeatCount="indefinite"/>
+<g transform="translate(0 44)"><g><animateTransform attributeName="transform" type="rotate" values="0;1080" dur="9s" repeatCount="indefinite" additive="replace"/>
+<circle r="30" fill="url(#d)" stroke="#8d95a3" stroke-width="1.5"/>
+<text font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,'Apple Color Emoji','Segoe UI Emoji',sans-serif" font-weight="800" font-size="19" fill="#3b4252" text-anchor="middle" y="7">NY</text></g></g></g>
+</svg>
